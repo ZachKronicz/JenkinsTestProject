@@ -11,5 +11,6 @@ public class Main {
         System.out.println("asd");
 
         System.out.println("asd");
+        System.out.println("test");
     }
 }
